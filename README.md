@@ -1,2 +1,2 @@
-# ros2-gz-gym
-A nifty sandbox for playing with ROS 2 and Gymnasium in a Gazebo environment
+# Attabot
+A nifty sandbox for experimenting with robots in MuJoCo using text prompts
