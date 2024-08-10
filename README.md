@@ -1,4 +1,4 @@
-# Attabot
+# MuJoCo-Instruct
 A nifty sandbox for experimenting with robots in MuJoCo using text prompts
 
 ## Setup
